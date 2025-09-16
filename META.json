@@ -1,0 +1,60 @@
+{
+  "category": "ci-cd",
+  "created_date": "2025-09-15T22:48:59.037063",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "screwdriver is a free and open-source CI/CD platform. Yahoo Screwdriver provides scalable CI/CD platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/ci-cd/screwdriver",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/ci-cd/screwdriver",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.037089",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "screwdriver",
+  "repository_url": "https://github.com/howtomgr/screwdriver",
+  "spec_version": "2.0",
+  "subcategory": "ci-cd",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "ci-cd",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "screwdriver Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/ci-cd/screwdriver"
+}
